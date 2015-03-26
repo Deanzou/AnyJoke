@@ -1,0 +1,32 @@
+#index, #show {
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+.form {
+    margin-top: 1em;
+}
+
+.form input, .form button {
+    margin: 0;
+}
+
+a.logout {
+    display: block;
+    text-align: right;
+}
+
+table {
+    width: 100%;
+}
+tr {
+    height: 2.5em;
+}
+td.vote {
+    width: 12em;
+    padding-right: 1em;
+}
+td.vote input[type=button] {
+    font-size: 0.8em;
+    margin-left: 1em;
+}

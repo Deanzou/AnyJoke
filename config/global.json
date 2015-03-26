@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "AnyJoke": {
+            "applicationId": "tKaP23NCtuav8tPUgS53VaUgDpYWE8nAw1mCkKma", 
+            "masterKey": "m6RkE555QVRmpmXkn4vYbndxAjjJ0Fnp8B9nXEs5"
+        }, 
+        "_default": {
+            "link": "AnyJoke"
+        }
+    },
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
