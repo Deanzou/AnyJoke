@@ -1,3 +1,7 @@
+# [Archive] AnyJoke
+
+**Note:** *This repository is not under active development.*
+
 # Overview
 
 This app showcases use of Parse + React for a simple collaborative humor site. Users can sign up and either submit joke setups or punchlines, then vote on their favorite combinations.
